@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "PROJECT/project.png",
+    "description": "This cybersecurity project offers hands-on learning, focusing on encryption, firewalls, and intrusion detection. Through personalized challenges, you'll refine your defense strategies and deepen your understanding of data protection.",
+    "skills": ["KaliLinux", "MsDos", "VirtualBox"],
+    "demo":"https://drive.google.com/drive/folders/1kTBhQ5cjmizn4TOzNu8nCLyRRoLp5sg3?usp=sharing",
+    "source": "https://github.com/Ak7061/Cyber_security_Project.git"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "PROJECT/project.png",
+    "description": "This project involves building a clone of Myntra, an e-commerce platform, using HTML, CSS, and JavaScript. It serves as a practical exercise to learn web development languages and replicate the functionality and design of a popular online shopping website.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://drive.google.com/file/d/10lgwAJJFFNCVLmVik-t4PL59gAp9dsQO/view?usp=sharing",
+    "source": "https://github.com/Ak7061/Myntra-clone.git"
+  },
+  {
+    
+    "title": "Project C",
+    "imageSrc": "PROJECT/project.png",
+    "description": "Project C is a Netflix clone created using HTML, CSS, and a touch of JavaScript. It replicates the user interface of Netflix, allowing users to browse through a selection of content and view details of each item.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://drive.google.com/file/d/1Kxq8z9IUHHZ1dmH56HmqUlr8MUYMXzyw/view?usp=drive_link",
+    "source": "https://github.com/Ak7061/Netflix-clone.git"
+
+
+  }
+]

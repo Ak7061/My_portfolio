@@ -1,0 +1,28 @@
+[
+  {
+    "role": "Intern",
+    "organisation": "Verzeos",
+    "startDate": "May, 2022",
+    "endDate": "June,2022",
+    "experiences": ["SQL injection", "Envadinf"],
+    "imageSrc": "history/verzeos.png"
+    
+  },
+  {
+    "role": "Intern",
+    "organisation": "TEQUED LABS",
+    "startDate": "Sep, 2022",
+    "endDate": "Sep, 2022",
+    "experiences": ["Developed Myntra Clone", "Netflix clone"],
+    "imageSrc": "history/TequedLabs.png"
+  },
+  {
+    "role": "Intern",
+    "organisation": "JSpyder",
+    "startDate": "Oct, 2023",
+    "endDate": "Present",
+    "experiences": ["Developed-ott-platform", "Developed-Portfolio"],
+    "imageSrc": "history/JSPIDER.png"
+
+  }
+]

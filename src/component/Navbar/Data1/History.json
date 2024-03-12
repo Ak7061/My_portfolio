@@ -1,12 +1,16 @@
 [
-  {
+   {
     "role": "Intern",
     "organisation": "Verzeos",
     "startDate": "May, 2022",
-    "endDate": "June,2022",
-    "experiences": ["SQL injection", "Envadinf"],
+    "endDate": "June, 2022",
+    "experiences": [
+      "SQL injection",
+      "Evading",
+      "Conducting research on cybersecurity best practices",
+      "Assisting in the implementation of security measures to protect company data"
+    ],
     "imageSrc": "history/verzeos.png"
-    
   },
   {
     "role": "Intern",
@@ -16,13 +20,13 @@
     "experiences": ["Developed Myntra Clone", "Netflix clone"],
     "imageSrc": "history/TequedLabs.png"
   },
-  {
-    "role": "Intern",
-    "organisation": "JSpyder",
-    "startDate": "Oct, 2023",
-    "endDate": "Present",
-    "experiences": ["Developed-ott-platform", "Developed-Portfolio"],
-    "imageSrc": "history/JSPIDER.png"
+{
+  "role": "Intern",
+  "organisation": "JSpyder",
+  "startDate": "Oct, 2023",
+  "endDate": "Present",
+  "experiences": ["Developed video hub", "Developed-Portfolio"],
+  "imageSrc": "history/JSPIDER.png"
+}
 
-  }
 ]

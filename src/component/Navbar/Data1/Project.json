@@ -26,9 +26,18 @@
   {
     "title": "Project D",
     "imageSrc": "PROJECT/reactdev.png",
-    "description": "Project D is a video streaming platform created using React.js and JavaScript. Inspired by OTT platforms, it allows users to browse through a selection of content and watch videos. The platform features a user-friendly interface designed with CSS.",
+    "description": "A React.js-based video streaming platform reminiscent of OTT services, offering seamless content browsing and video playback. Its user-friendly interface is elegantly styled using CSS",
     "skills": ["HTML", "CSS", "JavaScript", "React-js"],
     "demo": "https://drive.google.com/file/d/1lrpq7o4ppt-PLcRbjBdCyyqTyYRaNVty/view?usp=sharing",
     "source": "https://github.com/Ak7061/VideoHub"
+  }
+  ,{
+    "title":"My-Portfolio",
+    "imageSrc":"PROJECT/portfolio.jpg",
+    "description":"My Portfolio showcases my mastery of web development with React.js, Redux, HTML, CSS, and JavaScript. Its sleek design and intuitive interface spotlight my front-end expertise",
+    "skills":["HTML", "CSS", "JavaScript", "React-js","Redux"],
+    "demo":"https://drive.google.com/file/d/1Kxq8z9IUHHZ1dmH56HmqUlr8MUYMXzyw/view?usp=drive_link",
+    "source":"https://github.com/Ak7061/Myntra-clone.git"
+
   }
 ]

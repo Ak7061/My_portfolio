@@ -55,9 +55,10 @@
   width: 50%;
   z-index: 1;
   animation-name: floating;
-  animation-duration: 3s;
+  animation-duration: 5s;
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
+  border-radius: 25px;
 }
 @keyframes floating {
   0% {

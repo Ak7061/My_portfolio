@@ -11,7 +11,7 @@ const Hero = () => {
           Hey, I'm Akash, a Full-Stack adventurer diving headfirst into the
           digital frontier. Fresh-faced but fueled by curiosity, I'm on a
           mission to transform ideas into tech magic. Ready to embark on this
-          journey together?
+          journey together.
         </p>
         <a href="mailto:kumarakash7004@gmail.com" className={styles.contactBtn}>
           Contact Me

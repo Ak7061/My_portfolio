@@ -51,7 +51,7 @@ const About = () => {
                   experience and skills.
                 </p>
                 <a
-                  href="https://drive.google.com/file/d/1jl7bvRBORdkRspr0AMwqBRI-t24Q2mPK/view?usp=sharing" // Update this with the correct relative path to your resume PDF
+                  href="https://drive.google.com/file/d/1Y8uO72DlzEO7to6l60mMP-7SWjtwESTB/view?usp=sharing" // Update this with the correct relative path to your resume PDF
                   className={styles.resumeLink}
                   target="_blank"
                   rel="noopener noreferrer"
